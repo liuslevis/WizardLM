@@ -104,6 +104,7 @@ def gsm8k_test(model, data_path, start=0, end=MAX_INT, batch_size=1, tensor_para
             prompt = output.prompt
             generated_text = output.outputs[0].text
             res_completions.append(generated_text)
+            print("debug by xiaojiang generated_text:", generated_text)
 
     invalid_outputs = []
     for idx, (prompt, completion, prompt_answer) in enumerate(zip(gsm8k_ins, res_completions, gsm8k_answers)):
