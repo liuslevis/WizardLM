@@ -1,0 +1,95 @@
+Case1:
+```
+Q:
+I'm running 4 campaign:
+Campaign A: daily budget 20, daily spent 10, conversion 3.
+Campaign B: daily budget 20, daily spent 20, conversion 6.
+Campaign C: daily budget 20, daily spent 20, conversion 8.
+Campaign D: daily budget 20, daily spent 20, conversion 10.
+
+what my ROI?
+how to reschedule my budget for each campaign?
+
+A:
+1. Calculate the ROI for each campaign:
+* Campaign A: (3/10) \* 20 = 6
+* Campaign B: (6/20) \* 20 = 12
+* Campaign C: (8/20) \* 20 = 16
+* Campaign D: (10/20) \* 20 = 20
+
+The overall ROI is the sum of the individual campaign ROIs: 6 + 12 + 16 + 20 = 54.
+
+1. Reschedule the budget for each campaign:
+
+To achieve a better overall ROI, we can reschedule the budget for each campaign as follows:
+
+* Increase the budget for Campaign A and B, as they have a higher ROI.
+* Decrease the budget for Campaign C and D, as they have a lower ROI.
+
+For example, you could increase the daily budget for Campaign A and B to 25 each, and decrease the daily budget for Campaign C and D to 15 each. This way, the overall ROI will be improved by focusing more on the campaigns with higher conversion rates.
+
+Remember to monitor the performance of the campaigns regularly and adjust the budget allocation as needed to maintain the best possible ROI.
+
+```
+Case2:
+```
+
+Q: I'm running 4 campaign:
+Campaign A: daily spent 10, conversion 3.
+Campaign B: daily spent 20, conversion 6.
+Campaign C: daily spent 20, conversion 8.
+Campaign D: daily spent 20, conversion 10.
+
+what's my ROI?
+how to reschedule my budget for each campaign?
+
+A: 1. To calculate the ROI for each campaign, we need to divide the total revenue by the total spent.
+
+For Campaign A:
+Total revenue = 3 \* 10 = 30
+Total spent = 10
+ROI = 30 / 10 = 3
+
+For Campaign B:
+Total revenue = 6 \* 20 = 120
+Total spent = 20
+ROI = 120 / 20 = 6
+
+For Campaign C:
+Total revenue = 8 \* 20 = 160
+Total spent = 20
+ROI = 160 / 20 = 8
+
+For Campaign D:
+Total revenue = 10 \* 20 = 200
+Total spent = 20
+ROI = 200 / 20 = 10
+
+Based on the calculations, the ROI for each campaign is:
+Campaign A: 3%
+Campaign B: 6%
+Campaign C: 8%
+Campaign D: 10%
+
+1. To reschedule the budget for each campaign, you can follow these steps:
+
+a. Determine the total budget available for all campaigns.
+
+Total budget = 10 + 20 + 20 + 20 = 70
+
+b. Calculate the percentage of the total budget for each campaign based on their ROI.
+
+Campaign A: 10% (10 / 70)
+Campaign B: 13.33% (20 / 70)
+Campaign C: 10% (20 / 70)
+Campaign D: 14.29% (20 / 70)
+
+c. Adjust the daily spending for each campaign according to the calculated percentages.
+
+Daily spent for Campaign A: 10% \* 70 = 7
+Daily spent for Campaign B: 13.33% \* 70 = 9.17 (rounded to 9)
+Daily spent for Campaign C: 10% \* 70 = 7
+Daily spent for Campaign D: 14.29% \* 70 = 10 (rounded to 10)
+
+d. Monitor the performance of the campaigns with the adjusted budgets and make further adjustments as needed.
+```
